@@ -1,7 +1,8 @@
 # Welcome :wave:
 
 ## Quiz App
-## Deployed link :-
+
+### Deployed link :-
 [Demo of project](https://quiz-q-app.netlify.app/)
 
 ### About this project ⏬
