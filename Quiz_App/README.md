@@ -11,5 +11,8 @@
 - #### CSS 
 - #### JavaScript
 
+### How To Run locally in Your System ✅
+- download an extension live server and run open with live server
+
 ### How To Use ✅
 - Just read the question select the correct the answer and submit the answer
